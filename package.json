@@ -1,0 +1,29 @@
+{
+  "name": "site-kine",
+  "version": "1.0.0",
+  "description": "site philippe stunault",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bhtml)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheoDev404/site-kine.git"
+  },
+  "author": "MatheoDev404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheoDev404/site-kine/issues"
+  },
+  "homepage": "https://github.com/MatheoDev404/site-kine#readme",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-load-plugins": "latest",
+    "gulp-rename": "latest",
+    "gulp-csso": "latest",
+    "gulp-less": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-cssbeautify": "latest",
+    "gulp-autoprefixer": "latest"
+  }
+}
